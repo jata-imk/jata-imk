@@ -5,14 +5,6 @@
 - 💞️ I’m looking to collaborate on any project xD
 - 📫 How to reach me: Mmmm i don't know bro ajajaj //TODO Make changes to this file :v
 
-## Stats
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=jata-imk&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jata-imk&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark](https://github-stats-extended.vercel.app/api?username=jata-imk)">
-</p>
-
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=jata-imk)](https://github.com/stats-organization/github-stats-extended)
-
 
 > For above stats check out: https://github.com/anuraghazra/github-readme-stats
  
