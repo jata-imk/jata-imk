@@ -6,13 +6,9 @@
 - 📫 How to reach me: Mmmm i don't know bro ajajaj //TODO Make changes to this file :v
 
 
+[![jata-imk's GitHub stats](https://github-stats-extended.vercel.app/api?username=jata-imk)](https://github.com/stats-organization/github-stats-extended)
+
 > For above stats check out: https://github.com/anuraghazra/github-readme-stats
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=jata-imk&style=for-the-badge&color=orange" alt=""/>
-</div>
 
 <!---
 jata-imk/jata-imk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
