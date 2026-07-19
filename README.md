@@ -10,9 +10,7 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jata-imk&langs_count=4)
 
-[![jata-imk's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=jata-imk&langs_count=6)](https://wakatime.com/@alan)
-
-> For above stats check out: https://github.com/anuraghazra/github-readme-stats
+> For above stats check out: [https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended)
 
 <!---
 jata-imk/jata-imk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
