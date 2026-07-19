@@ -8,6 +8,10 @@
 
 [![jata-imk's GitHub stats](https://github-stats-extended.vercel.app/api?username=jata-imk)](https://github.com/stats-organization/github-stats-extended)
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jata-imk&langs_count=4)
+
+[![jata-imk's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=jata-imk&langs_count=6)](https://wakatime.com/@alan)
+
 > For above stats check out: https://github.com/anuraghazra/github-readme-stats
 
 <!---
